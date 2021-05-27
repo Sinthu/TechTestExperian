@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hxVfkRUKsN7jDckC2k8geFXgnYznnd0fbpgqsquwHHljBUNYmqy/SNuVHW9J9nWf3I9UfZYDGsiHuG4iU9O3GQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\edssi\\source\\repos\\ExperianApi\\ExperianApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\edssi\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
